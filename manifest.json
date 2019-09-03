@@ -1,0 +1,18 @@
+{
+
+"manifest_version": 2,
+"name": "el-rection",
+"version" "1.0",
+
+"description": "Replaces the word election in your browser with the word erection for the occasional chance of humour amongst a sea of confusion and innapropriate language",
+
+"icons": {
+  "XXXX": "icons/iconnameXXX.ext"
+  },
+  
+  "content_scripts": [
+    {
+      "js": [el-rection.js"]
+    }
+  ]
+}
